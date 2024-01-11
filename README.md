@@ -1,0 +1,1 @@
+Jeu créé exclusivement à l'aide de technologies de l'inteligence artificiel pour prouver que si on veut vraiment faire un projet sans avois les "skills" pour pouvoir le faire, quand on veut on le peut ^^.
