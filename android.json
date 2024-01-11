@@ -1,0 +1,24 @@
+{
+    "expansion": false,
+    "google_play_key": null,
+    "google_play_salt": null,
+    "heap_size": "1",
+    "icon_name": "JNS",
+    "include_pil": false,
+    "include_sqlite": false,
+    "layout": null,
+    "name": "JNS",
+    "numeric_version": 1,
+    "orientation": "sensor",
+    "package": "jns.program",
+    "permissions": [
+        "VIBRATE",
+        "INTERNET"
+    ],
+    "source": false,
+    "store": "play",
+    "update_always": true,
+    "update_icons": true,
+    "update_keystores": true,
+    "version": "0.2.1"
+}
